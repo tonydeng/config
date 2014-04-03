@@ -1,0 +1,2 @@
+#设置hostname的命令
+sudo scutil --set HostName yourname
